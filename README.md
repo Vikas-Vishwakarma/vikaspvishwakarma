@@ -7,7 +7,7 @@ I’m passionate about building reliable, automated solutions for enterprise sys
 ---
 
 ### 🧠 About Me  
-- 🧩 3.8+ years of experience in **L2/L3 application and system support**  
+- 🧩 4.5+ years of experience in **L2/L3 application and system support**  
 - ⚙️ Skilled in **Windows Server administration**, **Active Directory**, **DNS/DHCP**, and **network troubleshooting**  
 - 🐍 Automating with **PowerShell** and **Python** to simplify system maintenance and monitoring  
 - ☁️ Cloud experience with **AWS (EC2, Lambda, CloudWatch, S3)**  
